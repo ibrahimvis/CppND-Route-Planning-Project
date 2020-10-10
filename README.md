@@ -1,6 +1,9 @@
 # Route Planning Project
 
-This repo contains the Route Planning project.
+This repo contains the Route Planning project 
+
+a route planner that uses A* search to find a path between two points on a map using real map data from the OpenStreeMap project .
+
 
 <img src="map.png" width="600" height="450" />
 
